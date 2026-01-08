@@ -32,3 +32,7 @@ html
 </body>
 </html>
 ```
+html
+<link rel="manifest" href="/manifest.json">
+```
+

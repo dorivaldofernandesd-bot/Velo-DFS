@@ -3,7 +3,13 @@ html
 <html lang="pt">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+html
+<section class="chat">
+  <h3>Conversa Rápida</h3>
+  <div class="mensagem">👤 Cliente: Têm mais informações sobre o produto?</div>
+  <div class="mensagem resposta">🤖 Velo DFS: Claro! Enviamos já os detalhes.</div>
+</section>
+```  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Velo DFS</title>
   <link rel="stylesheet" href="style.css" />
 </head>

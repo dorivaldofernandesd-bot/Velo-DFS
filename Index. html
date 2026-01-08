@@ -1,0 +1,28 @@
+html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Velo DFS</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Velo DFS</h1>
+    <p>Conectando negócios com inteligência</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>App de comunicação para o mundo comercial</h2>
+      <p>Versão melhorada do WhatsApp, Instagram e TikTok — tudo num só lugar com IA integrada!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Velo DFS</p>
+  </footer>
+</body>
+</html>
+```

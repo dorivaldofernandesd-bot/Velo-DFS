@@ -28,3 +28,32 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
+css
+.contato {
+  margin-top: 2rem;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.contato form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.contato input,
+.contato textarea {
+  padding: 0.7rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contato button {
+  background: #3f51b5;
+  color: white;
+  border: none;
+  padding: 0.7rem;
+  border-radius: 5px;
+  cursor: pointer;
+}

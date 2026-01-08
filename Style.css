@@ -1,0 +1,17 @@
+`css
+.chat {
+  margin-top: 2rem;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.mensagem {
+  margin: 0.5rem 0;
+}
+
+.resposta {
+  background: #e0f7fa;
+  padding: 0.5rem;
+  border-radius: 6px;
+}
